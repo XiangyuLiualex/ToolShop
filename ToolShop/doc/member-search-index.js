@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"FileManager","l":"FileManager()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"FileManager","l":"getAnswer()"},{"p":"<Unnamed>","c":"FileManager","l":"readFile()"},{"p":"<Unnamed>","c":"FileManager","l":"setPathName(String)","url":"setPathName(java.lang.String)"}]
